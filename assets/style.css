@@ -741,7 +741,7 @@ header .inner-nav-wrap{
 ====================================== */
 
 .slider-area{
-    background-image: url("../img/slider.jpg");
+    background-image: url("../assets/img/slider.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1006,7 +1006,7 @@ header .inner-nav-wrap{
 }
 .project-sec .project-links a i{
     color: #FFFFFF;
-    font-size: 22px;
+    font-size: 40px;
     transition: .8s ease;
 }
 .project-sec .project-links a:hover i{
